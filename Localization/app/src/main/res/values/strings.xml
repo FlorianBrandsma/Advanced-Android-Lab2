@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Localization</string>
+    <string name="english">Hi</string>
+    <string name="swedish">Hejjsan</string>
+    <string name="finnish">Terve</string>
+    <string name="surprise">Hola</string>
+</resources>
